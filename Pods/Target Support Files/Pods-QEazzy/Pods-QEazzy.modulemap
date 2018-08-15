@@ -1,0 +1,6 @@
+framework module Pods_QEazzy {
+  umbrella header "Pods-QEazzy-umbrella.h"
+
+  export *
+  module * { export * }
+}
