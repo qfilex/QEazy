@@ -1,0 +1,2 @@
+# QEazy
+A quiz app
